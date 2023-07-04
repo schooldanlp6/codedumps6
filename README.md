@@ -1,2 +1,11 @@
-# codedumps6
-idk just some shit what I wanna save maybe
+# codedumps6 linux terminal
+
+
+
+firefox -p &
+
+I obv use firefox like cmon
+
+
+
+java is located in /usr/lib/jvm/openjdk-xx-
